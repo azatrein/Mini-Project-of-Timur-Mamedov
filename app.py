@@ -3,7 +3,6 @@ import pg8000
 
 app = Flask(__name__)
 
-# Database connection parameters
 DB_CONFIG = {
     "user": "postgres",
     "password": "aztrein7008",
