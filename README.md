@@ -10,9 +10,10 @@ make sure to download them in a virtual environment
 "source venv/bin/activate" to activate and just "deactivate" to quit
 
 create directory "mkdir name" and python file "touch app.py" 
-also templates directory where app.py is for "index.html"
+also "templates" directory for "index.html" in a directory of app.py
 
 access your directory "cd ..."
+"ls" to see your current directory files
 
 edit python file "nano app.py" (double tap to paste from normal IDE) "ctrl o" to save then enter and close "ctrl x"
 
